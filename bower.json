@@ -1,0 +1,20 @@
+{
+  "name": "bai1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "KandyTran <tranvukhanhduy19027@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/KandyTran/convit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
